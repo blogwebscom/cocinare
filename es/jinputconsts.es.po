@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: daniman <daniman@yopmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: jinputconsts.sinvaliddate
+msgid "%s is not a valid date"
+msgstr "%s No es una fecha válida."
+
+#: jinputconsts.sinvaliddatetime
+msgid "%s is not a valid date-time"
+msgstr "%s No es una fecha-hora válida."
+
+#: jinputconsts.sinvalidnumber
+msgid "%s is not a valid number"
+msgstr "%s No es un número válido."
+
+#: jinputconsts.sinvalidtime
+msgid "%s is not a valid time"
+msgstr "%s No es una hora válida."
