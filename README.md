@@ -1,6 +1,3 @@
-# cocinare
-Recetas de cocina!
-
 Cocinare
 ----------------------------------------
 Version: 1.1
